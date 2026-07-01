@@ -399,9 +399,9 @@ class BFSParking:
 if __name__ == "__main__":
     file_denah = "denah_parkir.txt"
     
-    print("=" * 60)
+    print("=" * 50)
     print("   SISTEM NAVIGASI PARKIR BFS — KELOMPOK 3")
-    print("=" * 60)
+    print("=" * 50)
 
     sistem = BFSParking()
 
